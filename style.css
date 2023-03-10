@@ -1,0 +1,23 @@
+body{
+	background: silver;
+}
+
+.pop{
+position: absolute;
+height: 80vh;
+width: 45%;
+background: linear-gradient(to right,red,purple);
+border:5px;
+
+
+}
+
+.tom{
+	position: absolute;
+	height: 50vh;
+	width: 10%;
+	background: dimgrey;
+	top: 6%;
+	left: 3%;
+
+}
